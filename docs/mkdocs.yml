@@ -1,0 +1,8 @@
+site_name: Documentacion de plugins SEDICI
+
+nav:
+   - Inicio: 'index.md'
+   - Plugin Dspace: 'dspace.md'
+   - Plugin Personal: 'personal.md'
+
+theme: readthedocs
