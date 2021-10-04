@@ -33,7 +33,7 @@ también esta la ópcion de cargar una nueva persona.
 Creando un nuevo Personal
 -------------------------------
 
-Cuando ingreses a **Agregar personal ** veras la siguiente interfaz:
+Cuando ingreses a **Agregar Personal** veras la siguiente interfaz:
 |InterfazCarga|
 
 -  **1) Publicar:** Una vez cargados todos los campos deseados se debe
