@@ -8,12 +8,9 @@ Acerca de
 
 El plugin de Personal esta enfocado en representar al personal académico de cada equipo que nos solicite un sitio web. La idea es armar un perfil
 de cada investigador con sus trabajos realizados y sus redes sociales
-academicas. **Ejemplo vista de un personal cargado:** |Ejemplo|
-
--  ``mkdocs new [dir-name]`` - Create a new project.
--  ``mkdocs serve`` - Start the live-reloading docs server.
--  ``mkdocs build`` - Build the documentation site.
--  ``mkdocs -h`` - Print help message and exit.
+academicas. 
+----------------------
+**Ejemplo vista de un personal cargado:** |Ejemplo|
 
 Campos de cada persona
 ----------------------
