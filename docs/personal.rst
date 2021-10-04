@@ -29,7 +29,9 @@ el plugin de Personal, una vez hecho esto aparecera en la barra lateral
 izquierda del escritorio una nueva opción llamada "Personal". Al acceder
 a esa opción se puede ver todo el personal cargado hasta el momento y
 también esta la ópcion de cargar una nueva persona. 
-## Carga de una persona
+
+Creando un nuevo Personal
+-------------------------------
 
 Cuando ingreses a **Agregar personal ** veras la siguiente interfaz:
 |InterfazCarga|
