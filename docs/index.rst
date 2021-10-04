@@ -1,9 +1,11 @@
-.. toctree::
-    :caption: Introducción
+Documentación de Plugins SEDICI
 
-    introduccion
+.. toctree::
+     :caption: Introducción
+
+     introduccion
 
 ..toctree::
-   :caption: Personal
+     :caption: Personal
 
-    personal
+     personal
