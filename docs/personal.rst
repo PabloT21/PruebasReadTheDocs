@@ -6,8 +6,7 @@ Plugin de Personal
 Acerca de
 ---------
 
-El plugin de Personal esta enfocado en representar a los equipos que
-integran cada desarrollo web que realizamos. La idea es armar un perfil
+El plugin de Personal esta enfocado en representar al personal académico de cada equipo que nos solicite un sitio web. La idea es armar un perfil
 de cada investigador con sus trabajos realizados y sus redes sociales
 academicas. **Ejemplo vista de un personal cargado:** |Ejemplo|
 
