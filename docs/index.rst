@@ -10,3 +10,8 @@ Documentación de Plugins SEDICI
      :caption: Personal
 
      personal
+
+.. toctree::
+     :caption: Dspace
+
+     dspace

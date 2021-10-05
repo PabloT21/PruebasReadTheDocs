@@ -51,5 +51,12 @@ Cuando ingreses a **Agregar Personal** veras la siguiente interfaz:
 -  Todos los campos para cargar son los que aparecen en el centro de la
    pantalla.
 
+Listando al personal
+-------------------------------
+El próximo paso luego de cargar al personal es mostrarlo en el sitio web, para eso podemos usar el siguiente shortcode
+::
+
+   [list-personal]
+
 .. |Ejemplo| image:: EjemploPersonal.png
 .. |InterfazCarga| image:: interfaz.png
