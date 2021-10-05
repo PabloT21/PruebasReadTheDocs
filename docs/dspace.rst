@@ -45,4 +45,5 @@ Parametros para el shortcode
    publicaciones .
 -  ``[get_publications author='x']`` - Author: Nombre del autor/es de
    los que queremos traer publicaciones .
+-  ``[get_publications max_results='x']`` - Max Results: Indica la cantidad máxima de resultados que queremos que el shortcode muestre.
 
