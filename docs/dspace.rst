@@ -46,4 +46,7 @@ Parametros para el shortcode
 -  ``[get_publications author='x']`` - Author: Nombre del autor/es de
    los que queremos traer publicaciones .
 -  ``[get_publications max_results='x']`` - Max Results: Indica la cantidad máxima de resultados que queremos que el shortcode muestre.
+-  ``[get_publications group_date='x']`` - Group Date: Acepta dos valores "true" o "false", si esta en true muestra las publicaciones agrupadas por fecha.
+-  ``[get_publications description='x']`` - Description: Acepta dos valores "true"o "false", si esta en true muestra la descripción.
+-  ``[get_publications share]`` - Description: Acepta dos valores "true"o "false", si esta en true muestra los botones para compartir cada publicacion en distintas redes sociales
 
